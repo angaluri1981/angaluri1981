@@ -1,3 +1,1 @@
-Hi This is a session from mohan by using putty
-
-Adding a new line
+hi this is first file connected the centos by using putty
